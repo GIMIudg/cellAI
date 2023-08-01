@@ -37,20 +37,20 @@ Here are some examples demonstrating how to use CELLAI:
    predictions = model.predict(new_samples)
 
 2. Anti-Aging Studies:
-  ```python
-  # Import the anti-aging module
-  from cellai.anti_aging import BiomarkerDiscovery
+   ```python
+   # Import the anti-aging module
+   from cellai.anti_aging import BiomarkerDiscovery
 
-  # Discover potential biomarkers for anti-aging research
-  biomarkers = BiomarkerDiscovery.analyze(data)
+   # Discover potential biomarkers for anti-aging research
+   biomarkers = BiomarkerDiscovery.analyze(data)
 
 3. Intelligent Farming:
-  ```python
-  # Import the intelligent farming module
-  from cellai.intelligent_farming import CropPrediction
+   ```python
+   # Import the intelligent farming module
+   from cellai.intelligent_farming import CropPrediction
 
-  # Predict crop yields using AI-driven models
-  crop_yields = CropPrediction.predict(data)
+   # Predict crop yields using AI-driven models
+   crop_yields = CropPrediction.predict(data)
 
 ## Contribution Guidelines
 We welcome contributions from the community! If you would like to contribute to CELLAI, please follow these guidelines:
@@ -60,7 +60,7 @@ Make your changes and ensure all tests pass.
 Submit a pull request with a clear description of your changes.
 
 ## License
-CELLAI is released under the MIT License. See the LICENSE file for more details.
+CELLAI is released under the UdeG License. See the LICENSE file for more details.
 
 ## Contact
 For any questions or inquiries, feel free to reach out to our team at german.preciat@academicos.udg.mx
